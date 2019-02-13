@@ -1,4 +1,6 @@
 # Cartogrampy
+
+## overview
 meant for simplifying making Gastner-Newman cartograms. this little library
 uses the command line tool [cart](http://www-personal.umich.edu/~mejn/cart/doc/). it expects that
 `cart` command in bash will work. follow the instructions on cart's page for how to install it,
@@ -22,4 +24,9 @@ as it grows. its bad that it starts to generate weird artifacts about halfway th
 example, ive colored the entire image with points that vary their rgb values so as to make the 
 overall effect on all points easier to see.
 
-![sample-cartogram](https://media.giphy.com/media/xAG8KXJ7a4l9aMv9eZ/giphy.gif)
+![sample-cartogram](https://github.com/kittles/cartogrampy/blob/master/sample_cartogram.gif)
+
+## todo
+  - explain how to use
+  - modularize
+  - include tests
