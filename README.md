@@ -22,4 +22,4 @@ as it grows. its bad that it starts to generate weird artifacts about halfway th
 example, ive colored the entire image with points that vary their rgb values so as to make the 
 overall effect on all points easier to see.
 
-![](https://giphy.com/gifs/xAG8KXJ7a4l9aMv9eZ)
+![](https://media.giphy.com/media/xAG8KXJ7a4l9aMv9eZ/giphy.gif)
