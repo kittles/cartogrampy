@@ -12,3 +12,14 @@ interpolation methods to see what looks best depending on the case.
 the absolute and relative scale and differences within the data that governs the cartogram
 seems to matter, and i encountered some weird artifacts when the max data > 6x the min. also,
 it seems to help to add a small baseline amount to all the data.
+
+## sample output
+here is an example of a 500x500 image, with a single square region where the input variable
+is higher than everywhere else. it varies from 2 to 99 as the gif goes from start to finish.
+the red square represents the original area, and the green is the resulting area from the 
+cartogram. its good that the green square gets bigger, while retaining some squarelike properties
+as it grows. its bad that it starts to generate weird artifacts about halfway through. in this
+example, ive colored the entire image with points that vary their rgb values so as to make the 
+overall effect on all points easier to see.
+
+![](https://giphy.com/gifs/xAG8KXJ7a4l9aMv9eZ)
