@@ -3,7 +3,7 @@
 CartogramPy is meant for simplifying making Gastner-Newman cartograms using python.
 ![sample-cartogram](https://github.com/kittles/cartogrampy/blob/master/sample_cartogram.gif)
 
-^^ sample output as density grows inside the green regions
+^^ sample output as density grows inside the green bordered regions
 
 ## Getting Started
 
